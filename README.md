@@ -1,5 +1,5 @@
 ![logo](data/MLU_Logo.png)
-## Machine Learning University: Accelerated Natural Language Processing Class
+## Gbest canva dan auta Machine Learning University: Accelerated Natural Language Processing Class
 
 This repository contains __slides__, __notebooks__ and __datasets__ for the __Machine Learning University (MLU) Accelerated Natural Language Processing__ class. Our mission is to make Machine Learning accessible to everyone. We have courses available across many topics of machine learning and believe knowledge of ML can be a key enabler for success. This class is designed to help you get started with Natural Language Processing (NLP), learn widely used techniques and apply them on real-world problems.
 
@@ -13,7 +13,7 @@ There are three lectures and one final project in this class. Course overview is
 | Lecture 1 | Lecture 2 | Lecture 3 |
 | :---: | :---: | :---: |
 | Introduction to ML | Tree-based Models | Neural Networks |
-| Intro to NLP and Text Processing | Regression Models | Word Embeddings |
+| Intro to NLP and Text Procesing | Regression Models | Word Embeddings |
 | Bag of Words (BoW) | Optimization-Regularization | Recurrent Neural Networks (RNN) |
 | K Nearest Neighbors (KNN) | Hyperparameter Tuning | Transformers |
 | | AWS AI/ML Services | |
